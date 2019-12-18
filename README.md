@@ -7,4 +7,4 @@ jQuery, AJAX, Node.js, Express, MongoDB
 ## User Story
 Keep track of books that you want to read, have read, and want to recommend to others. Find local coffee shops in your area. Nook and Novel leverages two external APIs: Google Books and Google Maps.
 
-![Library](https://github.com/jaykmark/nook-and-novel/blob/master/public/images/nook-and-novel.png = 250x250)
+![Library](https://github.com/jaykmark/nook-and-novel/blob/master/public/images/nook-and-novel.png =250x250)
