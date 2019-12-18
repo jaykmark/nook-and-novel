@@ -1,5 +1,5 @@
 # Nook & Novel
-Live Site: <nookandnovel.herokuapp.com>
+Live Site: http://nookandnovel.herokuapp.com/
 
 # Tech Stack
 jQuery, AJAX, Node.js, Express, MongoDB
