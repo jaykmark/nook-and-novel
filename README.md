@@ -1,9 +1,5 @@
-## User Story
-Keep track of books that you want to read, have read, and want to recommend to others. Find local coffee shops in your area. Nook and Novel leverages two external APIs: Google Books and Google Maps.
-
-
 # Nook & Novel
-*An application to track books. Find a local coffee shop. Leverages Google Books and Google Maps APIs. *
+*An application to track books. Find a local coffee shop. Leverages Google Books and Google Maps APIs.*
 
 **Live Site - http://nookandnovel.herokuapp.com/**
 
