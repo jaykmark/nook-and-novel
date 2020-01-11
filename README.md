@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://github.com/jaykmark/nook-and-novel/blob/master/public/images/nook-and-novel.png" alt="Library Database"
-	title="Nook & Novel Library" align="center" width="600" />
+	title="Nook & Novel Library" align="center" width="450" />
 </p>
   
 ## Technology Stack
